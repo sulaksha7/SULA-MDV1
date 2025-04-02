@@ -1,0 +1,22 @@
+
+{
+    "bot-name": "SULA-MD",
+    "description": "𝐒𝐮𝐥𝐚-𝐌𝐃 Multidevice Whatsapp Bot Create By (Sulaksha Madara).",
+    "logo": "https://i.ibb.co/WY2qBYz/SulaMd.jpg",
+    "keywords": ["bot","sula","sula-md"],
+    "documentation-link": "https://sula-lpgp.onrender.com",
+    "owner-verification":"sulakshamadara68@gmail.com",
+  
+      "env": {
+    "SESSION_ID": {
+      "description": "Put the session-id here.",
+      "required": true
+    },
+    
+    "MONGODB": {
+      "description": "Put the mongodb url here.",
+      "required": true
+    }
+  }
+  
+ }
