@@ -7,7 +7,7 @@
     "documentation-link": "https://sula-lpgp.onrender.com",
     "owner-verification":"sulakshamadara68@gmail.com",
   
-      "env": {
+    "env": {
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true
